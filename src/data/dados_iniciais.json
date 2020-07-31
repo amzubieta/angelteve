@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Artes Marciales",
+      "link": "http://www.tengyouken.com/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Mulheres que inspiran poder.",
+        "url": "https://www.youtube.com/watch?v=xrp0QYPZRT4"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Chen Style Tai Chi（Song-Li）",
+          "url": "https://www.youtube.com/watch?v=xrp0QYPZRT4"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Kung-fu Lady",
+          "url": "https://youtu.be/6rnJYQDe-mw"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Bāguàzhǎng Palma de los 8 trigramas",
+          "url": "https://youtu.be/NVfJdYNkC1Y"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Shinkyokushinkai Karate Girl!",
+          "url": "https://youtu.be/I3l7opqfhQ4"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Iron Karate Girl!",
+          "url": "https://youtu.be/HehxPFqOFLg"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Techniques of Taido",
+          "url": "https://youtu.be/r2Shcjf9VuU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Karate Girl",
+          "url": "https://youtu.be/K7xGm4SNvuI"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Bāguàzhǎng Palma de los 8 trigramas",
+          "url": "https://youtu.be/NVfJdYNkC1Y"
         }        
       ]
     },
